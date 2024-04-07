@@ -1,8 +1,7 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Nitin Pratap Singh</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
-<img align ="right" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ3NzZpcDhqeHJyNDVtczE3MWJpMTg0bW5tczVmc2NpbHNudGM4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv&psig=AOvVaw0KzT4Kzhl_J6vleTZunnxT&ust=1712601072851000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKikiLDesIUDFQAAAAAdAAAAABBY)"></img>
+<img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 - 🔭 I’m currently working on **Homyz**
 
 - 🤝 I’m looking for help with [QuickBoard](https://github.com/NitinSingh07/Quickboard)
