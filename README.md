@@ -3,7 +3,9 @@
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <h3 align="center">@2nd Runner-Up at IIIT Delhi E-Summit Fintech Hackathon</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gashwatechnologies.com/images/oscommerce_web_development_companies_himachal_shimla.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
+
+
 
 
 - 🔭 I’m currently working on **Homyz**
