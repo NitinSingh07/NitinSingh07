@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
 
-- 🔭 I’m currently working on **Homyz**
+- 🔭 I’m currently working on **Job Portal**
 
 - 🤝 I’m looking for help with [QuickBoard](https://github.com/NitinSingh07/Quickboard)
 
