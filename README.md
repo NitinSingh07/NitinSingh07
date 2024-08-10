@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
 
-- 🔭 I’m currently working on **Job Portal**
+- 🔭 I’m currently working on **VideoTube**
 
 - 🤝 I’m looking for help with [QuickBoard](https://github.com/NitinSingh07/Quickboard)
 
 - 📫 How to reach me **nitinthakur4406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MdGpztcx9WWO8BAidfIVbpO4Ff6CO0-L/view?usp=drive_link](https://drive.google.com/file/d/1MdGpztcx9WWO8BAidfIVbpO4Ff6CO0-L/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oiRWQ0wu4Xhpt2ndbzvKexgjDOLansFg/view?usp=sharing](https://drive.google.com/file/d/1oiRWQ0wu4Xhpt2ndbzvKexgjDOLansFg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitin thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin-pratap-singh-319665257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/nitin_thakur_07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin_thakur_07_" height="30" width="40" /></a>
 </p>
 
