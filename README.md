@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Nitin Pratap Singh</h1>
+<h1 align="center">Hi, I'm Nitin Pratap Singh</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <h3 align="center">@2nd Runner-Up at IIIT Delhi E-Summit Fintech Hackathon</h3>
 
@@ -316,8 +316,6 @@ To contact me.
 
 ## 🏅 My Holopin Badges
 [![Holopin Badge](https://holopin.me/nitinsingh07?badge=cm1gd89ly62400cmjfls9v64g)](https://holopin.io/@nitinsingh07)
-
-[![Holopin Badge](https://holopin.me/nitinsingh07?badge=cmh2b7t0f002fl404wkvp999x)](https://holopin.io/@nitinsingh07)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NitinSingh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
