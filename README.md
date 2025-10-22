@@ -167,58 +167,12 @@ activity graph heroku-app end -->
 </p> -->
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-# Reach out to me #
-
-
-
-To contact me.
-
-
-![](https://github.com/Sunilverma99/Sunilverma99.github.io/blob/master/screenshots/screenshot.gif?raw=true)
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#Sunilverma-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍ Random Dev Quote](#-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-
-    </td>
-    <td>    
-      <a href="https://sunil-portfolio-six.vercel.app/"><img src="https://gateway.pinata.cloud/ipfs/bafybeierdeelm42nlx2cxrcpg3rjbl5maitofnz4v4pwqcuxuaioe3hmva"/></a>
-       <a href="https://blog-application-o4u3.onrender.com/"><img src="https://gateway.pinata.cloud/ipfs/bafybeihlutsqtkrkc2jjew6zovixum7at2hfsagg3xal5asu6n4cb2ldji"/></a>
-    </td>
-  </tr>
-</table>
-
-
-# Welcome!
   
-
-<a href="https://sunil-portfolio-six.vercel.app" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ## My personal values and work ethic
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
 
-✨ I value open communication and strive to keep you updated on progress every step of the way.
-
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
-
-✨ Outside of work, I am an avid sports fan, especially when it comes to Kabaddi.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
           
