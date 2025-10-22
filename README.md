@@ -5,8 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
 
+<br> 
+<br>
+<br>
+
 - 📫 How to reach me **nitinthakur4406@gmail.com**
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -16,9 +25,7 @@
 
 
 
-
-
-# 💻 My favorite tools and technologies
+# 💻 My Favorite Tools and Technologies
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <table align="center">
     <tr>
@@ -173,11 +180,11 @@ activity graph heroku-app end -->
           
 ✨ Preferred JS frameworks   ✔Next.js, ✔React.js, ✔JavaScript, ✔TypeScript
          
-✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
+✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Ant Design, ✔Material-UI
          
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, NeonDB
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔NeonDB
          
-✨ Web hosting options      ✔ AWS Services - EC2, S3, and Lambda    ✔ GCP,  ✔GoDaddy
+✨ Web hosting options      ✔ AWS Services - EC2, S3, RDS, Cognito, Amplify and Lambda    ✔ GCP,  ✔GoDaddy
          
 ✨ Payment gateway integration  ✔Stripe
 
