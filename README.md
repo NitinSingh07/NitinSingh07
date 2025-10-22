@@ -5,13 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
 
-- 🔭 I’m currently working on **Caseking**
-
-- 🤝 I’m looking for help with [QuickBoard](https://github.com/NitinSingh07/Quickboard)
-
 - 📫 How to reach me **nitinthakur4406@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_whcEQPI57sTodPi7F1H0v37e3Koa_v-/view?usp=sharing](https://drive.google.com/file/d/1_whcEQPI57sTodPi7F1H0v37e3Koa_v-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
